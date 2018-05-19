@@ -35,9 +35,9 @@ Hello {
 
 // Will generate the following
 .Hello
-.Hello--is-selected
-.Hello--size-small
-.Hello--size-big
+.Hello__is-selected
+.Hello__size--small
+.Hello__size--big
 
 // For a nameless component, use ":root" instead of "Hello";
 // it will generate a random identifier
