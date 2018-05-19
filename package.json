@@ -1,0 +1,13 @@
+{
+  "name": "pretty-components",
+  "version": "1.0.3",
+  "main": "src/index.js",
+  "author": "eveningkid",
+  "repository": "eveningkid/pretty-components",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^11.10.0",
+    "pretty-components-formatter": "^1.0.2",
+    "react": "^16.3.2"
+  }
+}
